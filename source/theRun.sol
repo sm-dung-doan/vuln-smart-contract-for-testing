@@ -1,5 +1,5 @@
 contract theRun {
-        uint private Balance = 0;
+        uint private Balance = 1;
         uint private Payout_id = 0;
         uint private Last_Payout = 0;
         uint private WinningPot = 0;
